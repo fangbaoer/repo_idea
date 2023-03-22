@@ -1,0 +1,8 @@
+com\lagou\domain\CourseSection.class
+com\lagou\domain\Course.class
+com\lagou\domain\CourseLesson.class
+com\lagou\domain\CourseVO.class
+com\lagou\domain\Teacher.class
+com\lagou\domain\Test.class
+com\lagou\domain\CourseMedia.class
+com\lagou\domain\ResponseResult.class
